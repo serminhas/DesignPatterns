@@ -1,0 +1,13 @@
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.GenericRepositoryDP\bin\Debug\netcoreapp3.1\DesignPatterns.GenericRepositoryDP.exe
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.GenericRepositoryDP\bin\Debug\netcoreapp3.1\DesignPatterns.GenericRepositoryDP.deps.json
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.GenericRepositoryDP\bin\Debug\netcoreapp3.1\DesignPatterns.GenericRepositoryDP.runtimeconfig.json
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.GenericRepositoryDP\bin\Debug\netcoreapp3.1\DesignPatterns.GenericRepositoryDP.runtimeconfig.dev.json
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.GenericRepositoryDP\bin\Debug\netcoreapp3.1\DesignPatterns.GenericRepositoryDP.dll
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.GenericRepositoryDP\bin\Debug\netcoreapp3.1\DesignPatterns.GenericRepositoryDP.pdb
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.GenericRepositoryDP\obj\Debug\netcoreapp3.1\DesignPatterns.GenericRepositoryDP.AssemblyInfoInputs.cache
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.GenericRepositoryDP\obj\Debug\netcoreapp3.1\DesignPatterns.GenericRepositoryDP.AssemblyInfo.cs
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.GenericRepositoryDP\obj\Debug\netcoreapp3.1\DesignPatterns.GenericRepositoryDP.csproj.CoreCompileInputs.cache
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.GenericRepositoryDP\obj\Debug\netcoreapp3.1\DesignPatterns.GenericRepositoryDP.dll
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.GenericRepositoryDP\obj\Debug\netcoreapp3.1\DesignPatterns.GenericRepositoryDP.pdb
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.GenericRepositoryDP\obj\Debug\netcoreapp3.1\DesignPatterns.GenericRepositoryDP.genruntimeconfig.cache
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.GenericRepositoryDP\obj\Debug\netcoreapp3.1\DesignPatterns.GenericRepositoryDP.csprojAssemblyReference.cache

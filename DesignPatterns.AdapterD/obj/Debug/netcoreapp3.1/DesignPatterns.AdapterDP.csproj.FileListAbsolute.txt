@@ -1,0 +1,13 @@
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.AdapterD\bin\Debug\netcoreapp3.1\DesignPatterns.AdapterDP.exe
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.AdapterD\bin\Debug\netcoreapp3.1\DesignPatterns.AdapterDP.deps.json
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.AdapterD\bin\Debug\netcoreapp3.1\DesignPatterns.AdapterDP.runtimeconfig.json
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.AdapterD\bin\Debug\netcoreapp3.1\DesignPatterns.AdapterDP.runtimeconfig.dev.json
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.AdapterD\bin\Debug\netcoreapp3.1\DesignPatterns.AdapterDP.dll
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.AdapterD\bin\Debug\netcoreapp3.1\DesignPatterns.AdapterDP.pdb
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.AdapterD\obj\Debug\netcoreapp3.1\DesignPatterns.AdapterDP.csprojAssemblyReference.cache
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.AdapterD\obj\Debug\netcoreapp3.1\DesignPatterns.AdapterDP.AssemblyInfoInputs.cache
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.AdapterD\obj\Debug\netcoreapp3.1\DesignPatterns.AdapterDP.AssemblyInfo.cs
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.AdapterD\obj\Debug\netcoreapp3.1\DesignPatterns.AdapterDP.csproj.CoreCompileInputs.cache
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.AdapterD\obj\Debug\netcoreapp3.1\DesignPatterns.AdapterDP.dll
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.AdapterD\obj\Debug\netcoreapp3.1\DesignPatterns.AdapterDP.pdb
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.AdapterD\obj\Debug\netcoreapp3.1\DesignPatterns.AdapterDP.genruntimeconfig.cache

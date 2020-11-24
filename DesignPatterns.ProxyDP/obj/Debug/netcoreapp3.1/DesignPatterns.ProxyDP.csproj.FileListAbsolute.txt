@@ -1,0 +1,13 @@
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.ProxyDP\bin\Debug\netcoreapp3.1\DesignPatterns.ProxyDP.exe
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.ProxyDP\bin\Debug\netcoreapp3.1\DesignPatterns.ProxyDP.deps.json
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.ProxyDP\bin\Debug\netcoreapp3.1\DesignPatterns.ProxyDP.runtimeconfig.json
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.ProxyDP\bin\Debug\netcoreapp3.1\DesignPatterns.ProxyDP.runtimeconfig.dev.json
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.ProxyDP\bin\Debug\netcoreapp3.1\DesignPatterns.ProxyDP.dll
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.ProxyDP\bin\Debug\netcoreapp3.1\DesignPatterns.ProxyDP.pdb
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.ProxyDP\obj\Debug\netcoreapp3.1\DesignPatterns.ProxyDP.csprojAssemblyReference.cache
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.ProxyDP\obj\Debug\netcoreapp3.1\DesignPatterns.ProxyDP.AssemblyInfoInputs.cache
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.ProxyDP\obj\Debug\netcoreapp3.1\DesignPatterns.ProxyDP.AssemblyInfo.cs
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.ProxyDP\obj\Debug\netcoreapp3.1\DesignPatterns.ProxyDP.csproj.CoreCompileInputs.cache
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.ProxyDP\obj\Debug\netcoreapp3.1\DesignPatterns.ProxyDP.dll
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.ProxyDP\obj\Debug\netcoreapp3.1\DesignPatterns.ProxyDP.pdb
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.ProxyDP\obj\Debug\netcoreapp3.1\DesignPatterns.ProxyDP.genruntimeconfig.cache

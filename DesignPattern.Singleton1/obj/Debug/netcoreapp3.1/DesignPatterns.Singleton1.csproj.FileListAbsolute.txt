@@ -1,0 +1,13 @@
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPattern.Singleton1\bin\Debug\netcoreapp3.1\DesignPatterns.Singleton1.exe
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPattern.Singleton1\bin\Debug\netcoreapp3.1\DesignPatterns.Singleton1.deps.json
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPattern.Singleton1\bin\Debug\netcoreapp3.1\DesignPatterns.Singleton1.runtimeconfig.json
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPattern.Singleton1\bin\Debug\netcoreapp3.1\DesignPatterns.Singleton1.runtimeconfig.dev.json
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPattern.Singleton1\bin\Debug\netcoreapp3.1\DesignPatterns.Singleton1.dll
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPattern.Singleton1\bin\Debug\netcoreapp3.1\DesignPatterns.Singleton1.pdb
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPattern.Singleton1\obj\Debug\netcoreapp3.1\DesignPatterns.Singleton1.AssemblyInfoInputs.cache
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPattern.Singleton1\obj\Debug\netcoreapp3.1\DesignPatterns.Singleton1.AssemblyInfo.cs
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPattern.Singleton1\obj\Debug\netcoreapp3.1\DesignPatterns.Singleton1.csproj.CoreCompileInputs.cache
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPattern.Singleton1\obj\Debug\netcoreapp3.1\DesignPatterns.Singleton1.dll
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPattern.Singleton1\obj\Debug\netcoreapp3.1\DesignPatterns.Singleton1.pdb
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPattern.Singleton1\obj\Debug\netcoreapp3.1\DesignPatterns.Singleton1.genruntimeconfig.cache
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPattern.Singleton1\obj\Debug\netcoreapp3.1\DesignPatterns.Singleton1.csprojAssemblyReference.cache

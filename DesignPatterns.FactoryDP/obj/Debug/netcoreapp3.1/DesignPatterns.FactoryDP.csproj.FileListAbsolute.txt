@@ -1,0 +1,13 @@
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.FactoryDP\bin\Debug\netcoreapp3.1\DesignPatterns.FactoryDP.exe
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.FactoryDP\bin\Debug\netcoreapp3.1\DesignPatterns.FactoryDP.deps.json
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.FactoryDP\bin\Debug\netcoreapp3.1\DesignPatterns.FactoryDP.runtimeconfig.json
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.FactoryDP\bin\Debug\netcoreapp3.1\DesignPatterns.FactoryDP.runtimeconfig.dev.json
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.FactoryDP\bin\Debug\netcoreapp3.1\DesignPatterns.FactoryDP.dll
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.FactoryDP\bin\Debug\netcoreapp3.1\DesignPatterns.FactoryDP.pdb
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.FactoryDP\obj\Debug\netcoreapp3.1\DesignPatterns.FactoryDP.csprojAssemblyReference.cache
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.FactoryDP\obj\Debug\netcoreapp3.1\DesignPatterns.FactoryDP.AssemblyInfoInputs.cache
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.FactoryDP\obj\Debug\netcoreapp3.1\DesignPatterns.FactoryDP.AssemblyInfo.cs
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.FactoryDP\obj\Debug\netcoreapp3.1\DesignPatterns.FactoryDP.csproj.CoreCompileInputs.cache
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.FactoryDP\obj\Debug\netcoreapp3.1\DesignPatterns.FactoryDP.dll
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.FactoryDP\obj\Debug\netcoreapp3.1\DesignPatterns.FactoryDP.pdb
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.FactoryDP\obj\Debug\netcoreapp3.1\DesignPatterns.FactoryDP.genruntimeconfig.cache

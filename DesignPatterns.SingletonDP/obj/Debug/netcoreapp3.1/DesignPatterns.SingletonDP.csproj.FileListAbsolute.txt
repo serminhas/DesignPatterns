@@ -1,0 +1,13 @@
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.SingletonDP\obj\Debug\netcoreapp3.1\DesignPatterns.SingletonDP.csprojAssemblyReference.cache
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.SingletonDP\obj\Debug\netcoreapp3.1\DesignPatterns.SingletonDP.AssemblyInfoInputs.cache
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.SingletonDP\obj\Debug\netcoreapp3.1\DesignPatterns.SingletonDP.AssemblyInfo.cs
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.SingletonDP\obj\Debug\netcoreapp3.1\DesignPatterns.SingletonDP.csproj.CoreCompileInputs.cache
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.SingletonDP\bin\Debug\netcoreapp3.1\DesignPatterns.SingletonDP.exe
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.SingletonDP\bin\Debug\netcoreapp3.1\DesignPatterns.SingletonDP.deps.json
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.SingletonDP\bin\Debug\netcoreapp3.1\DesignPatterns.SingletonDP.runtimeconfig.json
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.SingletonDP\bin\Debug\netcoreapp3.1\DesignPatterns.SingletonDP.runtimeconfig.dev.json
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.SingletonDP\bin\Debug\netcoreapp3.1\DesignPatterns.SingletonDP.dll
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.SingletonDP\bin\Debug\netcoreapp3.1\DesignPatterns.SingletonDP.pdb
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.SingletonDP\obj\Debug\netcoreapp3.1\DesignPatterns.SingletonDP.dll
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.SingletonDP\obj\Debug\netcoreapp3.1\DesignPatterns.SingletonDP.pdb
+C:\Users\Sermin Has\source\repos\DesignPatterns\DesignPatterns.SingletonDP\obj\Debug\netcoreapp3.1\DesignPatterns.SingletonDP.genruntimeconfig.cache
